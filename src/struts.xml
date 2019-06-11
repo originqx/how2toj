@@ -7,7 +7,7 @@
 	<package name="basicstruts" extends="struts-default">
 
 		<action name="index">
-			<result>index.jspfghjfjh</result>
+			<result>index.jsp</result>
 		</action>
 
 	</package>
